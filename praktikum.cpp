@@ -101,5 +101,5 @@ int main() {
         delete rekening[i];
     }
 
-    return 0;
+    return 0; 
 }
