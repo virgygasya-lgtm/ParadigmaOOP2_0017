@@ -15,3 +15,4 @@ public:
         cout << "Pesan dari joko" << endl;
     }
 };
+ 
